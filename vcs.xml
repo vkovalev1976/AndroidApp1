@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/vkovalev1976/AndroidStudioProjects6.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kovalevy2/DownLoad2_22122018" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Slava" />
+    <option name="cloneParentDir" value="C:\Users\Slava\AndroidStudioProjects" />
   </component>
 </application>
