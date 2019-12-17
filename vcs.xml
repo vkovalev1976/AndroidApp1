@@ -22,6 +22,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="kovalevy2" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kovalevy2/freelance14.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Slava\AndroidStudioProjects" />
